@@ -7,17 +7,17 @@ The Sakshi Store wants to create an annual sales report for 2022 so that the own
 
 ## Dataset Used
 
-[Download File](Project.file.xlsx)
+[Download File](sakshi store data.xlsx)
 
----
+
 
 ## Dashboard Screenshot
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot(Screenshot2026-04-03 214429.png)
 
 ---
 
 ## Live Dashboard
-[View Dashboard](https://your-dashboard-link.com)
+[View Dashboard](Project.file.xlsx)
 
 ---
 
