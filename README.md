@@ -3,23 +3,10 @@
 ## Project Objective
 The Sakshi Store wants to create an annual sales report for 2022 so that the owner of the Sakshi Store can understand their customers and grow more sales in 2023 & 2024.
 
----
-
-## Dataset Used
-
-[Download File](sakshi store data.xlsx)
-
-
-
-## Dashboard Screenshot
-![Dashboard Screenshot(Screenshot2026-04-03 214429.png)
-
----
 
 ## Live Dashboard
 [View Dashboard](Project.file.xlsx)
 
----
 
 ## Questions (KPIs)
 
@@ -33,7 +20,6 @@ The Sakshi Store wants to create an annual sales report for 2022 so that the own
 - Highest selling category  
 - Percentage of total orders delivered  
 
----
 
 ## Process
 
@@ -42,7 +28,6 @@ The Sakshi Store wants to create an annual sales report for 2022 so that the own
 - Create pivot tables based on business questions  
 - Merge all pivot tables into one interactive dashboard using slicers  
 
----
 
 ## Project Insight
 
@@ -52,7 +37,7 @@ The Sakshi Store wants to create an annual sales report for 2022 so that the own
 - Top channels: Amazon, Flipkart, Myntra  
 - More than 90% orders are successfully delivered  
 
----
+
 
 ## Final Conclusion
 
